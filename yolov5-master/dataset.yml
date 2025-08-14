@@ -1,0 +1,5 @@
+train: C:/Users/Yuvraj/OneDrive/Files/YOLO/yolov5-master/Dataset/images/train
+val: C:/Users/Yuvraj/OneDrive/Files/YOLO/yolov5-master/Dataset/images/val
+
+nc: 2
+names: ["drowsiness", "awake"]
